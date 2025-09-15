@@ -5,6 +5,9 @@
 [submodule "branchingprocess"]
 	path = branchingprocess
 	url = https://github.com/epiforesite/branchingprocess
+[submodule "epitraxr"]
+	path = epitraxr
+	url = https://github.com/epiforesite/epitraxr
 [submodule "facilityepimath"]
 	path = facilityepimath
 	url = https://github.com/epiforesite/facilityepimath
