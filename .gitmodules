@@ -11,3 +11,6 @@
 [submodule "facilityepimath"]
 	path = facilityepimath
 	url = https://github.com/epiforesite/facilityepimath
+[submodule "linkeR"]
+	path = linkeR
+	url = https://github.com/epiforesite/linker
