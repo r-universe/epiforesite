@@ -1,16 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/epiforesite/epiforesite.r-universe.dev
 	branch = HEAD
 [submodule "branchingprocess"]
 	path = branchingprocess
-	url = https://github.com/epiforesite/branchingprocess
+	url = https://github.com/EpiForeSITE/branchingprocess
 [submodule "epitraxr"]
 	path = epitraxr
-	url = https://github.com/epiforesite/epitraxr
+	url = https://github.com/EpiForeSITE/epitraxr
 [submodule "facilityepimath"]
 	path = facilityepimath
-	url = https://github.com/epiforesite/facilityepimath
+	url = https://github.com/EpiForeSITE/facilityepimath
 [submodule "linkeR"]
 	path = linkeR
-	url = https://github.com/epiforesite/linker
+	url = https://github.com/EpiForeSITE/linkeR
+[submodule "multigroup.vaccine"]
+	path = multigroup.vaccine
+	url = https://github.com/EpiForeSITE/multigroup-vaccine
+[submodule "quadkeyr"]
+	path = quadkeyr
+	url = https://github.com/EpiForeSITE/quadkeyr
+[submodule "rbranding"]
+	path = rbranding
+	url = https://github.com/EpiForeSITE/rbranding
+[submodule "summrt"]
+	path = summrt
+	url = https://github.com/EpiForeSITE/summrt
