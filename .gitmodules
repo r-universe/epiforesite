@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/epiforesite/epiforesite.r-universe.dev
 	branch = HEAD
+[submodule "bayestransmission"]
+	path = bayestransmission
+	url = https://github.com/EpiForeSITE/bayesian-transmission
 [submodule "branchingprocess"]
 	path = branchingprocess
 	url = https://github.com/EpiForeSITE/branchingprocess
