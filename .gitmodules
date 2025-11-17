@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "bayestransmission"]
 	path = bayestransmission
-	url = https://github.com/EpiForeSITE/bayesian-transmission
+	url = https://github.com/EpiForeSITE/bayestransmission
 [submodule "branchingprocess"]
 	path = branchingprocess
 	url = https://github.com/EpiForeSITE/branchingprocess
