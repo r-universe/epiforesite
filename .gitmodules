@@ -26,10 +26,6 @@
 [submodule "rbranding"]
 	path = rbranding
 	url = https://github.com/EpiForeSITE/rbranding
-[submodule "rtestim"]
-	path = rtestim
-	url = https://github.com/dajmcdon/rtestim
-	registered = false
 [submodule "summrt"]
 	path = summrt
 	url = https://github.com/EpiForeSITE/summrt
